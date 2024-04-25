@@ -1,0 +1,11 @@
+.App {
+  min-height: 100vh; 
+  background-image: url('./image/BW Emblem.PNG');
+  background-size: cover;
+  background-position: center; 
+  /* opacity: 0.7;  */
+}
+
+
+
+
