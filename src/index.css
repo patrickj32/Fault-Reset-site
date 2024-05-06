@@ -14,7 +14,25 @@ code {
 
 
 .carousel-container {
-  display:inline;
+  display: inline;
   justify-content: center; 
   align-items: center; 
+  width: 100vw; 
+  height: 100vh; 
 }
+
+.photo-gallery-container {
+  display: flex; /* Use flexbox */
+  justify-content: center; /* Center items horizontally */
+}
+
+.gallery-image {
+  max-width: 25%; /* Set maximum width to 25% of container */
+  height: auto; /* Maintain aspect ratio */
+}
+
+
+
+
+
+

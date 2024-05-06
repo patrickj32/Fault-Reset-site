@@ -57,7 +57,7 @@ function Header() {
         </Container>
       </Navbar>
 
-      <div className="text-center mt-3">
+      <div className="text-center mt-5 mb-5">
         <img
           src={purplelogo}
           height="300"
